@@ -1,5 +1,5 @@
 ## Project Brief
-This site is apart of the first Milestone Project for The Full Stack Web Developer Course that I am enrolled onto at The Code Institute. 
+This site is my first Milestone Project for The Full Stack Web Developer Course that I am enrolled onto at The Code Institute. 
 The Site was created for a 1960's Band called The Monkees.
 
 ### Technologies & Dependencies
