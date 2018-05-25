@@ -2,6 +2,9 @@
 This site is my first Milestone Project for The Full Stack Web Developer Course that I am enrolled onto at The Code Institute. 
 The Site was created for a 1960's Band called The Monkees.
 
+### Project Link
+https://scott00sw.github.io/stream_1_project/
+
 ### Technologies & Dependencies
 - HTML 5
 - CSS 3
@@ -29,9 +32,6 @@ same module as this project.
 
 #### bookings.html
 ![bookings.html](https://scott00sw.github.io/stream_1_project/assets/wireframes/png/bookings.png)
-
-### Project Link
-https://scott00sw.github.io/stream_1_project/
 
 ### Testing
 All testing will be carried out by using the following validators:
