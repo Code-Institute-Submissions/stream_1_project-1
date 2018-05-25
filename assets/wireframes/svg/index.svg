@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024px"
+   height="768px"
+   viewBox="0 0 1024 768"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="index.svg">
+  <metadata
+     id="metadata886">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>about</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title4583">about</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.26"
+     inkscape:cx="456.54938"
+     inkscape:cy="479.23809"
+     inkscape:document-units="px"
+     inkscape:current-layer="header"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-text-baseline="true" />
+  <defs
+     id="defs3713">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4741">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4737" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4739" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4741"
+       id="linearGradient4743"
+       x1="72.625651"
+       y1="687.85953"
+       x2="224.72981"
+       y2="687.85953"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Base"
+     style="display:inline" />
+  <g
+     style="display:inline"
+     inkscape:label="Header"
+     inkscape:groupmode="layer"
+     id="header">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:3.46933579;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="box_banner"
+       width="995"
+       height="190"
+       x="10"
+       y="15" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="435.11221"
+       y="125.48495"
+       id="txt_banner"><tspan
+         sodipodi:role="line"
+         id="tspan899"
+         x="435.11221"
+         y="125.48495">Banner</tspan></text>
+  </g>
+  <g
+     id="g2045"
+     inkscape:groupmode="layer"
+     inkscape:label="Navigation"
+     style="display:inline">
+    <rect
+       y="205"
+       x="10"
+       height="50"
+       width="995"
+       id="box_menu"
+       style="fill:#525252;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="menu">
+      <g
+         id="menuitem_home">
+        <rect
+           style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="box_home"
+           width="199"
+           height="50"
+           x="10"
+           y="205" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="45.454544"
+           y="242.54546"
+           id="text_home"><tspan
+             sodipodi:role="line"
+             id="tspan_home"
+             x="45.454544"
+             y="242.54546">Home</tspan></text>
+      </g>
+      <g
+         id="menuitem_band">
+        <rect
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="box_about"
+           width="199"
+           height="50"
+           x="208"
+           y="205"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="251.81819"
+           y="244.36363"
+           id="text_band"><tspan
+             sodipodi:role="line"
+             id="tspan_band"
+             x="251.81819"
+             y="244.36363">Band</tspan></text>
+      </g>
+      <g
+         id="menuitem_music">
+        <rect
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="box_music"
+           width="199"
+           height="50"
+           x="406"
+           y="205" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="449.09091"
+           y="242.54546"
+           id="text_music"><tspan
+             sodipodi:role="line"
+             id="tspan_music"
+             x="449.09091"
+             y="242.54546">Music</tspan></text>
+      </g>
+      <g
+         id="menuitem_video">
+        <rect
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="video"
+           width="199"
+           height="50"
+           x="605"
+           y="205" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="648.18182"
+           y="244.36363"
+           id="text_video"><tspan
+             sodipodi:role="line"
+             id="tspan_video"
+             x="648.18182"
+             y="244.36363">Video</tspan></text>
+      </g>
+      <g
+         id="menuitem_bookings">
+        <rect
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="box_booking"
+           width="200"
+           height="50"
+           x="804"
+           y="205" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="814.54541"
+           y="242.54546"
+           id="text_bookings"><tspan
+             sodipodi:role="line"
+             id="tspan_bookings"
+             x="814.54541"
+             y="242.54546">Bookings</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g4571"
+     inkscape:groupmode="layer"
+     inkscape:label="Content"
+     style="display:inline">
+    <rect
+       style="fill:#f4f4f4;stroke:#000000;stroke-width:2.82590246;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="content"
+       width="995"
+       height="395"
+       x="10"
+       y="255" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="31.034485"
+       y="295.58621"
+       id="text_content_header"><tspan
+         sodipodi:role="line"
+         id="tspan903"
+         x="31.034485"
+         y="295.58621">The Monkees</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.64661217px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02349591"
+       x="31.764357"
+       y="313.59113"
+       id="text_ipsum"
+       transform="scale(0.97704346,1.0234959)"><tspan
+         sodipodi:role="line"
+         x="31.764357"
+         y="326.04135"
+         id="tspan2195"
+         style="stroke-width:1.02349591" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.11307335px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.60435081"
+       x="33.498302"
+       y="315.17166"
+       id="text4707"
+       transform="scale(0.91725269,1.0902121)"><tspan
+         sodipodi:role="line"
+         id="tspan4705"
+         x="33.498302"
+         y="315.17166"
+         style="font-size:15.77452469px;stroke-width:1.60435081">Formed in the 1960's The Monkees have been touring and performing for over 50 years, in venues across the globe. </tspan><tspan
+         sodipodi:role="line"
+         x="33.498302"
+         y="336.56299"
+         id="tspan4717"
+         style="font-size:15.77452469px;stroke-width:1.60435081">Welcome to our new site, where you can find more info about us (The Band) in the band section. </tspan><tspan
+         sodipodi:role="line"
+         x="33.498302"
+         y="357.95435"
+         id="tspan4719"
+         style="font-size:15.77452469px;stroke-width:1.60435081">We now have some of our greatest hits from our Back Catalogue, avalible to listen online.</tspan><tspan
+         sodipodi:role="line"
+         x="33.498302"
+         y="379.34567"
+         id="tspan4709"
+         style="font-size:15.77452469px;stroke-width:1.60435081" /><tspan
+         sodipodi:role="line"
+         x="33.498302"
+         y="400.73703"
+         id="tspan4711"
+         style="font-size:15.77452469px;stroke-width:1.60435081">Soon you'll be able to book us for functions such as Weddings and Christmas Parties, by using the Bookings Section.</tspan><tspan
+         sodipodi:role="line"
+         x="33.498302"
+         y="422.12836"
+         id="tspan4713"
+         style="font-size:15.77452469px;stroke-width:1.60435081" /><tspan
+         sodipodi:role="line"
+         x="33.498302"
+         y="443.51971"
+         id="tspan4715"
+         style="font-size:15.77452469px;stroke-width:1.60435081">Links to our other pages, such as Faebook, Youtube etc. Can be found at the bottom of all the pages on this site.</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4721"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4723"><rect
+           id="rect4725"
+           width="70.634918"
+           height="12.698413"
+           x="862.69843"
+           y="521.17462" /></flowRegion><flowPara
+         id="flowPara4727" /></flowRoot>  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Footer"
+     inkscape:groupmode="layer"
+     id="g4581">
+    <rect
+       style="fill:#525252;stroke:#000000;stroke-width:3.0034647;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:0.94117647"
+       id="box_footer"
+       width="995"
+       height="97.145424"
+       x="10"
+       y="650" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="425.86209"
+       y="690.53693"
+       id="text_footer"><tspan
+         sodipodi:role="line"
+         x="425.86209"
+         y="690.53693"
+         id="tspan860">Footer</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4729"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="translate(62.507937,17.142857)"><flowRegion
+         id="flowRegion4731"
+         style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"><rect
+           id="rect4733"
+           width="204.7619"
+           height="30.158714"
+           x="71.428574"
+           y="674.34918"
+           style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4735"
+         style="fill:#ffffff;fill-opacity:1">Copyright Info</flowPara></flowRoot>    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:9.30000019;stroke-dasharray:6, 3;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4745"
+       width="202.38094"
+       height="33.333324"
+       x="113.30159"
+       y="686.73016" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4729-4"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="translate(606.20635,16.698412)"><flowRegion
+         id="flowRegion4731-7"
+         style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1"><rect
+           id="rect4733-5"
+           width="204.7619"
+           height="30.158714"
+           x="71.428574"
+           y="674.34918"
+           style="font-size:21.33333397px;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4735-9"
+         style="fill:#ffffff;fill-opacity:1">Social Media Links</flowPara></flowRoot>    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.20966339;stroke-linejoin:round;stroke-miterlimit:9.30000019;stroke-dasharray:6.41932661, 3.2096633;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4745-8"
+       width="233.12366"
+       height="33.123661"
+       x="657.10486"
+       y="686.39056" />
+  </g>
+</svg>
