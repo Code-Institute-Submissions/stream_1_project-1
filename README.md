@@ -15,19 +15,19 @@ Some of the code used on this site is based upon the code that was used in the R
 same module as this project.
 
 ### Wireframes
-##### index.html
+#### index.html
 ![index.html](https://scott00sw.github.io/stream_1_project/assets/wireframes/png/index.png)
 
-##### band.html
+#### band.html
 ![band.html](https://scott00sw.github.io/stream_1_project/assets/wireframes/png/music.png)
 
-##### music.html
+#### music.html
 ![music.html](https://scott00sw.github.io/stream_1_project/assets/wireframes/png/music.png)
 
-##### video.html
+#### video.html
 ![video.html](https://scott00sw.github.io/stream_1_project/assets/wireframes/png/video.png)
 
-##### bookings.html
+#### bookings.html
 ![bookings.html](https://scott00sw.github.io/stream_1_project/assets/wireframes/png/bookings.png)
 
 ### Project Link
